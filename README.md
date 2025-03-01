@@ -45,7 +45,7 @@ Autres améliorations possibles (idées futures)
 🚀 Mode sombre pour un meilleur confort visuel.
 🚀 Mode conversation pour des échanges en temps réel entre deux langues.
 🚀 Suggestions de corrections pour améliorer les phrases traduites.
-## Perequis
+## Prérequis
 -** Python3.8+**
 - tkinter:	Interface graphique
 - googletrans:	Traduction automatique
